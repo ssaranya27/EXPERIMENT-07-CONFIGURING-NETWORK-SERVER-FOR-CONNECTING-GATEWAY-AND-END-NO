@@ -1,5 +1,6 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
+### NAME : SARANYA S.
+### REG NO: 212223220101
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
 ## Components required: 
@@ -54,9 +55,22 @@ To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
 
-
 ## OUTPUT 
+1.login to the network server using login link  https://iot.saveetha.in/
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d15089e3-c275-4f5e-b398-4c4806bd6282" />
+DEVICE TYPE
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66202244-3360-4762-b10a-aef66909593f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20ea5b78-5a83-4e9b-a671-509b1e253b1d" />
 
+DEVICE
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d2ad916-5b55-4e9a-a458-deca603bfba0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e69deeaa-ffd2-47e6-9a22-a66bb994c397" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d75dbd8-deca-46f3-ad77-5fb536fe62d9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e2df707-8424-463f-88fc-80fe64550c99" />
+
+GATEWAY:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/800595d8-cbcd-47ae-98a2-c28305d8dcab" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08820ea9-b717-4e51-a0c0-05af6c137539" />
 
 ## Result: 
 
